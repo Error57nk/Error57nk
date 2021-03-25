@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Error57nk
 - 👀 I’m interested in WebDevlopment/Robotic/Iot
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate
+- 🌱 I’m currently looking for opportunity
 - 📫 reach me 
 + niteshkrsit@gmail.com (mail)
 + https://www.linkedin.com/in/nitesh-kr (Linkedin)
++ portfolio http://www.niteshkumar.frontroot.co
 
 <!---
 Error57nk/Error57nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

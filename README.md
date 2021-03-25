@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 reach me 
 + niteshkrsit@gmail.com (mail)
-+ linkedin.com/in/nitesh-kr (Linkedin)
++ https://www.linkedin.com/in/nitesh-kr (Linkedin)
 
 <!---
 Error57nk/Error57nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

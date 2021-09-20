@@ -4,7 +4,7 @@
 - 📫 reach me 
 + niteshkrsit@gmail.com (mail)
 + https://www.linkedin.com/in/nitesh-kr (Linkedin)
-+ portfolio http://www.niteshkumar.frontroot.co
++ portfolio https://niteshkumar.netlify.app/
 
 
 #err57nk

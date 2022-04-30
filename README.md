@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nitesh Kumar
-- 👀 I’m interested in WebDevlopment/Robotic/Iot
-- 👀 Skill: Python(Django), Rectjs, Bootstrap, HTML, CSS(Sass),JavaScript ... 
-- 🌱 I’m currently looking for opportunity
+- 👀 I’m interested in WebDevlopment/Robotic/Iot/ML
+- 👀 Skill: Python(Django),JavaScript , Rectjs, Bootstrap, HTML, CSS(Sass), ...
 - 🌱 I also do freelancing
 - 📫 reach me at niteshkrsit@gmail.com
 + niteshkrsit@gmail.com (mail)

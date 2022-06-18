@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nitesh Kumar
 ## I'm fullstack devleoper
-  - Skill Python(Django),JavaScript , Rectjs, Bootstrap, HTML, CSS(Sass), ...
+  - Skill: Python(Django), JavaScript, Rectjs, React Native, Android Studio, Cordova, Bootstrap, Handelbars, HTML, CSS, SCSS ....
   ## 🌱 I also do freelancing
   ## 📫 reach me at niteshkrsit@gmail.com
   ## 🌱 founder of https://www.frontroot.in

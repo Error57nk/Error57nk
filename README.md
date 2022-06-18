@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Nitesh Kumar
-- 👀 I’m interested in WebDevlopment/Robotic/Iot/ML
-- 👀 Skill: Python(Django),JavaScript , Rectjs, Bootstrap, HTML, CSS(Sass), ...
-- 🌱 I also do freelancing
-- 📫 reach me at niteshkrsit@gmail.com
-+ niteshkrsit@gmail.com (mail)
-+ https://www.linkedin.com/in/nitesh-kr (Linkedin)
-+ portfolio https://niteshkumar.netlify.app/
+# 👋 Hi, I’m Nitesh Kumar
+## I'm fullstack devleoper
+  - Skill Python(Django),JavaScript , Rectjs, Bootstrap, HTML, CSS(Sass), ...
+  ## 🌱 I also do freelancing
+  ## 📫 reach me at niteshkrsit@gmail.com
+  ## 🌱 founder of https://www.frontroot.in
+- niteshkrsit@gmail.com (mail)
+- https://www.linkedin.com/in/nitesh-kr (Linkedin)
+- portfolio https://niteshkumar.netlify.app/
+
 
 
 #err57nk

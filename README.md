@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Nitesh Kumar
 ## I'm fullstack developer
   - Primary skills :
-      -- Framework : react, react native, Django(python)
-      -- Backend : python, java
-      -- UI : javascripts, css, html, bootstrap      
+      - Framework : react, react native, Django(python)
+      - Backend : python, java
+      - UI : javascripts, css, html, bootstrap      
       
   - Other:  Android Studio, Cordova, Handelbars, SCSS, angular
-  - 
+
   ## 🌱 I also do freelancing
   ## 📫 reach me at niteshkrsit@gmail.com
   ## 🌱 founder of https://www.frontroot.in

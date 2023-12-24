@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Nitesh Kumar
 ## I'm fullstack developer
   - Primary skills :
-      - Framework : react, react native, Django(python)
+      - Framework/Lib : react, react native, Django(python)
       - Backend : python, java
       - UI : javascripts, css, html, bootstrap      
       

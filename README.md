@@ -3,9 +3,9 @@
   - Primary skills :
       - Framework/Lib : react, react native, Django(python)
       - Backend : python, java
-      - UI : javascripts, css, html, bootstrap      
+      - UI : javascripts, css, html, bootstrap, Handelbars, SCSS, angular      
       
-  - Other:  Android Studio, Cordova, Handelbars, SCSS, angular
+  - Other:  Android Studio, Cordova 
 
   ## 🌱 I also do freelancing
   ## 📫 reach me at niteshkrsit@gmail.com
